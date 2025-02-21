@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Khilari</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
 
-<img align="right" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="coding" width="400">
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=samruddhikhilari&label=Profile%20views&color=0e75b6&style=flat" alt="samruddhikhilari" /> </p>-->
+<!--<img align="right" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="coding" width="400">-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samruddhikhilari&label=Profile%20views&color=0e75b6&style=flat" alt="samruddhikhilari" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/samruddhikhilari#hi-there-](https://github.com/samruddhikhilari#hi-there-)
 
