@@ -1,4 +1,4 @@
-![logo](https://github.com/samruddhikhilari/samruddhikhilari/blob/main/banner2.gif)
+<!--![logo](https://github.com/samruddhikhilari/samruddhikhilari/blob/main/banner2.gif)-->
 <h1 align="center">Hi 👋, I'm Samruddhi Khilari</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
 
