@@ -1,7 +1,7 @@
 <!--![logo](https://github.com/samruddhikhilari/samruddhikhilari/blob/main/banner2.gif)-->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=500&color=F70094&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Samruddhi+Khilari!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=500&color=F70094&center=true&vCenter=true&width=600&lines=+%F0%9F%91%8B%2C+Samruddhi+Khilari+here!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
